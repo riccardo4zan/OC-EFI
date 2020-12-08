@@ -15,11 +15,11 @@ Starting from the default configuration on BIOS version 3805, no changes to defu
 
 The EFI folder valid for this configuration emulates SIMBIOS iMac 17,1 
 
-The EFI folder uses OC 0.6.3 (Updates 2/11/2020)
+The EFI folder uses OC 0.6.4 (Updates 8/12/2020)
 
 # Working:
 * Ethernet 1GB
-* Audio (No volume control)
+* Audio
 * All USB ports
 * Sleep
 * Power Management (No kexts needed)
