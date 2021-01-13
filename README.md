@@ -38,9 +38,9 @@ __________
 * USBInjectAll (https://bitbucket.org/RehabMan/os-x-usb-inject-all/src/master/)
 
 # Credits
-- Opencore: https://github.com/acidanthera/OpenCorePkg
+* Opencore: https://github.com/acidanthera/OpenCorePkg
 
-- GibMacOS https://github.com/corpnewt/gibMacOS
-- ProperTree https://github.com/corpnewt/ProperTree
-- GenSMBIOS https://github.com/corpnewt/GenSMBIOS
-- SSDT Time https://github.com/corpnewt/SSDTTime
+* GibMacOS https://github.com/corpnewt/gibMacOS
+* ProperTree https://github.com/corpnewt/ProperTree
+* GenSMBIOS https://github.com/corpnewt/GenSMBIOS
+* SSDT Time https://github.com/corpnewt/SSDTTime
