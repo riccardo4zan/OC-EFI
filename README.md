@@ -9,11 +9,11 @@ Guide: https://dortania.github.io/OpenCore-Install-Guide/
 * 16GB DDR4 
 
 # BIOS Settings
-Starting from the default configuration on BIOS version 3805, no changes to defualt settings
+Starting from the default configuration on BIOS version 3805 disable FastBoot
 
 # EFI
 - SIMBIOS: iMac 17,1 
-- OC Version: 0.6.4 (Updated 8/12/2020)
+- OC Version: 0.6.6 (Updated 4/2/2021)
 
 # Working:
 * Ethernet 1GB
@@ -35,7 +35,6 @@ __________
 * Lilu (https://github.com/acidanthera/lilu/releases)
 * VirtualSMC + SMCProcessor + SMCSuperIO (https://github.com/acidanthera/virtualsmc/releases)
 * WhateverGreen (https://github.com/acidanthera/whatevergreen/releases)
-* USBInjectAll (https://bitbucket.org/RehabMan/os-x-usb-inject-all/src/master/)
 
 # Credits
 * Opencore: https://github.com/acidanthera/OpenCorePkg
